@@ -1,1 +1,1 @@
-# Hands-on_GithubSeminar
+# Github講習会におけるハンズオンで使用してもらうレポジトリです．
