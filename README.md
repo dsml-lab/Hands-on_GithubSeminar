@@ -10,5 +10,5 @@ DSML向上計画-Gitについて(伊藤千紘.2020)：
 
 ## 目次
 - [Gitを始めよう](Let's_Git_Started.md)
-- [フランチの使用方法](Git_branch.md)
+- [ブランチの使用方法](Git_branch.md)
 - [gitの基本操作&コマンドの早見表](Git_Command_Guide.md)
